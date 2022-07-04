@@ -1,6 +1,6 @@
 # SP-FRL-1800
 
-![SPFRL1800 Blue/White & Black/White](https://github.com/jonathanmi6/SPFRL1800/tree/main/BlueWhite_BlackWhite.jpg?raw=true)
+![SPFRL1800 Blue/White & Black/White](https://github.com/jonathanmi6/SPFRL1800/blob/main/Images/BlueWhite_BlackWhite.jpg?raw=true)
 
 South Paw Function Row Less 1800 Layout Custom Stacked Acrylic Keyboard with nice!nano
 
