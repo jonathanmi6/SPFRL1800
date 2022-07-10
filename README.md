@@ -2,7 +2,9 @@
 
 ![SPFRL1800 Blue/White & Black/White](https://github.com/jonathanmi6/SPFRL1800/blob/main/Images/BlueWhite_BlackWhite.jpg?raw=true)
 
-South Paw Function Row Less 1800 Layout Custom Stacked Acrylic Keyboard with nice!nano
+# Overview:
+
+South Paw Function-Row-Less 1800 Layout Custom Stacked Acrylic Keyboard with nice!nano controller
 
 Keyboard Features:
 * 84 Keys
@@ -11,6 +13,7 @@ Keyboard Features:
 * Bluetooth connectivity with up to 5 devices
 
 CAD & PCB Design done by Jonathan Mi
+
 Firmware written by Kunal Singla
 
 
@@ -18,4 +21,6 @@ Firmware written by Kunal Singla
 Q: Will you sell this?
 
 A: No, we do not have the bandwidth to produce these for sale.
+
+
 
